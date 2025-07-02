@@ -47,8 +47,6 @@ It represents orbital motion using only front-end code — no external libraries
 
 **Name:** Mo Akthar  
 **GitHub:** [@moakthar](https://github.com/moakthar)  
-**Live Site:** [https://solar-anime.vercel.app/](https://solar-anime.vercel.app/)  
-> *(Update the live link after deployment)*
 
 ---
 
